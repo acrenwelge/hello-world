@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,8EAA8E;AAE9E,SAAS;AAOT,SAAS;AAQP,gBAAe;EACb,gBAAgB,EARX,OAAqB;AAU5B,gBAAe;EACb,gBAAgB,EAVX,OAAqB;AAY5B,gBAAe;EACb,gBAAgB,EAZX,OAAqB;AAc5B,gBAAe;EACb,gBAAgB,EAdX,OAAoB;AAgB3B,gBAAe;EACb,gBAAgB,EAhBX,OAAmB",
+"sources": ["multi-colored.scss"],
+"names": [],
+"file": "style.css"
+}

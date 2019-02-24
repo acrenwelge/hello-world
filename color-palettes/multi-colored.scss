@@ -1,0 +1,33 @@
+/* Coolors Exported Palette - coolors.co/5dd9c1-fde74c-9bc53d-c3423f-404e4d */
+
+/* HSL */
+$color1: hsla(168%, 62%, 61%, 1);
+$color2: hsla(53%, 98%, 65%, 1);
+$color3: hsla(79%, 54%, 51%, 1);
+$color4: hsla(1%, 52%, 51%, 1);
+$color5: hsla(176%, 10%, 28%, 1);
+
+/* RGB */
+$color1: rgba(93, 217, 193, 1);
+$color2: rgba(253, 231, 76, 1);
+$color3: rgba(155, 197, 61, 1);
+$color4: rgba(195, 66, 63, 1);
+$color5: rgba(64, 78, 77, 1);
+
+div {
+  &:nth-child(1) {
+    background-color: $color1;
+  }
+  &:nth-child(2) {
+    background-color: $color2;
+  }
+  &:nth-child(3) {
+    background-color: $color3;
+  }
+  &:nth-child(4) {
+    background-color: $color4;
+  }
+  &:nth-child(5) {
+    background-color: $color5;
+  }
+}

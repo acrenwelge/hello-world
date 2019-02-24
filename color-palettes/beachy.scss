@@ -1,0 +1,24 @@
+
+$color1: rgba(32,40,78,1);
+$color2: rgba(87,83,252,1);
+$color3: rgba(56,182,234,1);
+$color4: rgba(212,110,86,1);
+$color5: rgba(253,229,205,1);
+
+div {
+  &:nth-child(1) {
+    background-color: $color1;
+  }
+  &:nth-child(2) {
+    background-color: $color2;
+  }
+  &:nth-child(3) {
+    background-color: $color3;
+  }
+  &:nth-child(4) {
+    background-color: $color4;
+  }
+  &:nth-child(5) {
+    background-color: $color5;
+  }
+}

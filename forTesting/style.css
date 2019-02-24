@@ -1,0 +1,39 @@
+/* Coolors Exported Palette - coolors.co/5dd9c1-fde74c-9bc53d-c3423f-404e4d */
+/* HSL */
+/* RGB */
+/* Coolors Exported Palette - coolors.co/008080-0a2239-53a2be-1d84b5-132e32 */
+/* HSL */
+/* RGB */
+body {
+  margin: 0;
+  padding: 0; }
+
+div div {
+  width: 20%;
+  height: 400px;
+  display: inline-block;
+  margin: auto -2px; }
+
+#palette1 div:nth-child(1) {
+  background-color: #5ed9c1; }
+#palette1 div:nth-child(2) {
+  background-color: #fde94e; }
+#palette1 div:nth-child(3) {
+  background-color: #9bc63f; }
+#palette1 div:nth-child(4) {
+  background-color: #c34341; }
+#palette1 div:nth-child(5) {
+  background-color: #404f4e; }
+
+#palette2 div:nth-child(1) {
+  background-color: teal; }
+#palette2 div:nth-child(2) {
+  background-color: #0a2238; }
+#palette2 div:nth-child(3) {
+  background-color: #55a2be; }
+#palette2 div:nth-child(4) {
+  background-color: #1d84b4; }
+#palette2 div:nth-child(5) {
+  background-color: #142f34; }
+
+/*# sourceMappingURL=style.css.map */
